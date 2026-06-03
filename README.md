@@ -1,2 +1,2 @@
 # inline-sorting-plastic-metal-mixtures
-Beregningsdokumenter bachelorprojekt om inline teeter bed separator - DTU 2026
+Beregningsdokumenter og forsøgsdata til bachelorprojekt om inline teeter bed separator - DTU 2026
